@@ -15,10 +15,10 @@
 2. У терміналі B — клієнт:
     node client.js
 3. У клієнті вводьте:
-    login <yourName>
+    login `yourName`
     ping
     echo Hello
     list
-    msg <user> <text>
-    file <user> <path/to/file>
+    msg `user` `text`
+    file `user` `path/to/file`
     exit
